@@ -10,11 +10,11 @@ I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/
 
 ### Learning progress
 
-- PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=51&leftFill=%2300FFFF "PHP learning progress")
+- PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%2300FFFF "PHP learning progress")
 
-- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Front-end learning progress")
+- Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%2300FFFF "Front-end learning progress")
 
-- Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "Linux learning progress")
+- Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=25&leftFill=%2300FFFF "Linux learning progress")
 
 - Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "kubernetes learning progress")
 
