@@ -23,6 +23,6 @@ I am currently studying golang. <img src="https://media.giphy.com/media/WUlplcMp
 ### Github Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nfangxu.nfangxu)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true" align='left'>
+  <img src="https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30" align='left'>
   <img src="https://github-profile-trophy.vercel.app/?username=nfangxu&theme=nord&row=2&column=3">
 </div>
