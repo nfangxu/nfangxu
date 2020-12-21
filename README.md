@@ -19,7 +19,7 @@ I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/
 - Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "kubernetes learning progress")
 
 ### Github Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nfangxu.nfangxu)
-
-![nfangxu's github stats](https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nfangxu&theme=nord)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30" align='left'>
+  <img src="https://github-profile-trophy.vercel.app/?username=nfangxu&theme=nord&row=2&column=3">
+</div>
