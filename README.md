@@ -21,3 +21,5 @@ I am currently studying swoole and k8s. <img src="https://media.giphy.com/media/
 ### Github Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nfangxu.nfangxu)
 
 ![nfangxu's github stats](https://github-readme-stats.vercel.app/api?username=nfangxu&show_icons=true&line_height=30)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nfangxu&theme=onedark)](https://github.com/nfangxu)
