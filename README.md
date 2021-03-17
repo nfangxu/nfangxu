@@ -16,9 +16,9 @@ I am currently studying golang. <img src="https://media.giphy.com/media/WUlplcMp
 
 - Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%2300FFFF "Linux learning progress")
 
-- Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "kubernetes learning progress")
+- Golang ![Golang learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Golang learning progress")
 
-- Golang ![Golang learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=6&leftFill=%2300FFFF "Golang learning progress")
+- Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "kubernetes learning progress")
 
 ### Github Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=nfangxu.nfangxu)
 
