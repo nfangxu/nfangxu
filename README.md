@@ -12,11 +12,11 @@ I am currently studying golang. <img src="https://media.giphy.com/media/WUlplcMp
 
 - PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=65&leftFill=%2300FFFF "PHP learning progress")
 
+- Golang ![Golang learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=31&leftFill=%2300FFFF "Golang learning progress")
+
 - Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%2300FFFF "Front-end learning progress")
 
 - Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%2300FFFF "Linux learning progress")
-
-- Golang ![Golang learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=11&leftFill=%2300FFFF "Golang learning progress")
 
 - Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "kubernetes learning progress")
 
