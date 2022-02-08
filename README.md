@@ -1,6 +1,6 @@
 ## Hi, I'm Here 👋
 
-> This is Niu Fangxu, a php programmer from Beijing China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
+> This is Niu Fangxu, a php & golang programmer from Chengdu China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=nfangxu">
 
