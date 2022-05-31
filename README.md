@@ -1,4 +1,7 @@
-## Hi, I'm Here 👋
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfangxu" width="100%" />
+</div>
+
 <br>
 <div align="center">
   <img alt="Chengdu China" src="https://img.shields.io/static/v1?label=China&message=Chengdu&color=blue">
@@ -7,9 +10,6 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nfangxu?style=social">
 </div>
 <br><br>
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nfangxu" width="100%" />
-</div>
 
 > This is Niu Fangxu, a php & golang programmer from Chengdu China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
 
