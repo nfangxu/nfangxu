@@ -19,21 +19,13 @@
 
 ### Learning progress
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nfangxu" align="right"/></div>
-
 - PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=65&leftFill=%2300FFFF "PHP learning progress")
 
 - Golang ![Golang learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=49&leftFill=%2300FFFF "Golang learning progress")
 
 - Front-end ![Front-end learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=33&leftFill=%2300FFFF "Front-end learning progress")
 
-- Linux ![Linux learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=30&leftFill=%2300FFFF "Linux learning progress")
-
 - Kubernetes / Docker ![kubernetes learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%2300FFFF "kubernetes learning progress")
-
-- ReactJS & VueJS ![ReactJS & VueJS](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=8&leftFill=%2300FFFF "ReactJS & VueJS")
-
-- Shell & Python & C ![Shell & Python & C](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=5&leftFill=%2300FFFF "Shell & Python & C")
 
 ### Github Stats
 
