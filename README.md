@@ -11,7 +11,7 @@
 </div>
 <br><br>
 
-> This is Niu Fangxu, a php & golang programmer from Chengdu China. My blog is <a href="https://3c4j.com">https://3c4j.com</a>
+> This is Niu Fangxu, a php & golang programmer from Chengdu China. My blog is <a href="https://nfangxu.com">https://nfangxu.com</a>
 
 > <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I like group programming, if you are too, I am very happy that we can lift the friendship 🚢 boat together and set sail.</em>
 
